@@ -1,0 +1,11 @@
+*   d3e4fc1 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from Hedi0AM/fix-typo
+|\  
+| * 2d012e7 Fix error in README.md
+|/  
+* 08f6619 Add Error
+| * 2cac538 (origin/feature-1, feature-1) Add Branch Feature-1 and file feature1.txt
+|/  
+* 237a210 Add new line from local repo to README.md
+* 7efa551 Add line to README.md from WebGUI
+* 8c5a705 Update README.md
+* 6594640 Initial commit

@@ -1,0 +1,12 @@
+*   3a37f20 (HEAD -> master) Merge branch 'php-features'
+|\  
+| * 78e4a8b (php-features) Added README.md file
+| * f1e80f5 Added index.php
+* |   e74777c (tag: v0.1) Merge branch 'new-features'
+|\ \  
+| * | 9567861 Added help.html file
+| * | 9f1df80 Added contact.html file
+| |/  
+* / a13fdae Added html skeleton to index.html and REDME.md
+|/  
+* 0f9f372 The beginnings of my web site.
